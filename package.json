@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "classnames": "2.3.2",
+    "react-svg": "16.1.8",
+    "unocss": "0.51.4",
+    "vite-plugin-mock": "3.0.0"
+  }
+}
